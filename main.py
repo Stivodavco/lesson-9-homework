@@ -12,3 +12,6 @@ class City:
 
 petrzalka = City("Petržalka","Bratislavský Kraj","Slovensko",114000,"851 01","+421 2")
 print(petrzalka.get_full_adress())
+
+dnv = City("Devínska Nová Ves","Bratislavský Kraj","Slovensko",17067,"841 07","+421 2")
+print(dnv.get_full_adress())
